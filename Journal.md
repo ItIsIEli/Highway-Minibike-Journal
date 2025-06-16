@@ -11,5 +11,5 @@ Also started working on the display, which tells how fast youre going and distan
 Now as to how the display actually works, there will be a small battery hidden somewhere in the frame that powers it. To track distance I will buy a hall efect probe and a magnet the magnet will be connected to the tire and the hall effect probe will be connected to the frame right in front of the wheel so every time the whel makes a rotation it gets tracked by the rasberry pi and displays how fast and what distance. An animation I made explains it.![My Project6-16-2025_10-40-46](https://github.com/user-attachments/assets/99205663-5452-4694-82e8-07371c936884)
 
 
-total time spent: 1hr 30 mins
+total time spent: 2hrs 30 mins
 
