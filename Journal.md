@@ -4,7 +4,7 @@ Description: Gas mini bike with an electric display
 Made: 6-16-2025
 
 6-16-2025: Was mostly brainstorming on whether or not I wanted to make my own frame or purchase a used frame I decided that If I were to get a $100 used frame I could save time and use parts that are made for that frame.
-I also did a quick rough scetch on the frame itself ![image](https://github.com/user-attachments/assets/5e01b968-8a52-486e-8e54-078d08090c05)
+I also started on the cad ![image](https://github.com/user-attachments/assets/5e01b968-8a52-486e-8e54-078d08090c05)
 
 
 I also started working on the display, which tells how fast youre going and distance. Im thinking to cut back on costs that Ill use the Rasberry Pi zero 2w I won from counterspell and a gmg12864-06d (lcd screen) which I already have for the display.
